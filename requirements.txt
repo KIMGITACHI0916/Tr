@@ -1,0 +1,6 @@
+pyrogram
+tgcrypto
+spotipy
+yt-dlp
+aiohttp
+pytgcalls
